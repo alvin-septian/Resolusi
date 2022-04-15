@@ -1,0 +1,6 @@
+rencana konten
+
+- aplikasi web sederhana
+- vlog
+- cinematic video
+- website statis
