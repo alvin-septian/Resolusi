@@ -5,3 +5,4 @@ rencana konten
 - cinematic video
 - website statis
   * membuat game tetris menggunakan html,css,javascript
+  * membuat game snake menggunakan html.css,javascript
