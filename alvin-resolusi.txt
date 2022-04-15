@@ -1,6 +1,6 @@
 Alvin Resolusi
 - konsisten unutuk memplajari hal baru
-- menghilangkan sifat malas 
 - belajar php dasar
 - mempelajari javascript dasar
 - mempelajari php dasar
+- membuat video cinematic
