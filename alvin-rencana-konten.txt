@@ -1,7 +1,6 @@
 rencana konten
 
 - aplikasi web sederhana
-- vlog
 - cinematic video
   * menggunakan filmora
   * menggunkan vegas pro
