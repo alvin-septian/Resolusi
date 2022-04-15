@@ -3,6 +3,8 @@ rencana konten
 - aplikasi web sederhana
 - vlog
 - cinematic video
+  * menggunakan filmora
+  * menggunkan vegas pro
 - website statis
   * membuat game tetris menggunakan html,css,javascript
   * membuat game snake menggunakan html.css,javascript
