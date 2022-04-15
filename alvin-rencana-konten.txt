@@ -4,3 +4,4 @@ rencana konten
 - vlog
 - cinematic video
 - website statis
+  * membuat game tetris menggunakan html,css,javascript
